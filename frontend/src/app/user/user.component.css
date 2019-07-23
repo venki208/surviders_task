@@ -1,0 +1,14 @@
+table {
+  width: 100%;
+}
+.example-table-container{
+	max-height: 500px;
+    overflow-y: auto;
+    margin-bottom: 4px;
+    background: inherit;
+    width: 80%;
+    overflow: scroll;
+}
+.demo{
+	display: inline-flex;
+}
