@@ -5,6 +5,9 @@ clone repo using `git clone git@github.com:venki208/surviders_task.git`
 make sure 
   `python3.6.6`, `angular7`, `mongodb` are installed
   
+ create `project` database in mongo by using following command
+ go to inside mongo then run `use project`
+  
   
 
 
